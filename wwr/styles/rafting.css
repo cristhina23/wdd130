@@ -688,6 +688,6 @@ th, td {
 }
 
 th {
-    background-color: #0096c7;
+    background-color: var(--primary-color);
     color: white;
 }
