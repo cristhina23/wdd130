@@ -1,0 +1,17 @@
+
+main {
+    width: 60%;
+}
+aside {
+    width: 30%;
+    margin: 0;
+    border: 1px solid rgb(0 0 0 /0.2);
+    padding: 20px;
+    background-color: azure;
+    color: black;
+    text-align: center;
+}
+aside img {
+    width: 200px;
+    height: auto;
+}
