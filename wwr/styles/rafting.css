@@ -501,6 +501,7 @@ input[type="checkbox"] {
 }
 
 .hero-content-home {
+  width: 100%;
   position: absolute;
   top: 40%;
   left: 50%;
@@ -520,6 +521,8 @@ input[type="checkbox"] {
 
 .hero-content-home h1 {
   color: var(--accent2-color);
+  margin-top: 0;
+  
 }
 .promotions {
   width: 100%;
